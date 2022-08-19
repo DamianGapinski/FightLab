@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2af5ad1.css",
+    "main.js": "/static/js/main.5f64f01e.js",
+    "static/media/background.png": "/static/media/background.e0d22f4169b8536006a1.png",
+    "static/media/EverlastHelmet.jpg": "/static/media/EverlastHelmet.4e90e9dab9fbbcda20b4.jpg",
+    "static/media/venumHelmet.jpeg": "/static/media/venumHelmet.aa5c627d892e4c58e6a4.jpeg",
+    "static/media/venumshinGuards.jpg": "/static/media/venumshinGuards.dd02277d5072fec62931.jpg",
+    "static/media/venumHandWrap.jpg": "/static/media/venumHandWrap.fa1c6366de2ffaba6530.jpg",
+    "static/media/mouthguard.jpg": "/static/media/mouthguard.85be30715c4e7dbefd7a.jpg",
+    "static/media/starProGloves.jpg": "/static/media/starProGloves.7651c542038577fad30a.jpg",
+    "static/media/everlastShinGuards.jpg": "/static/media/everlastShinGuards.d8de0faf434a8efd2bd3.jpg",
+    "static/media/venumGloves.jpg": "/static/media/venumGloves.66a15a98eeb868a0a9ea.jpg",
+    "static/media/starProHandWrap.jpg": "/static/media/starProHandWrap.94bccfad3f90c5dd29c1.jpg",
+    "static/media/mouthguardufc.jpg": "/static/media/mouthguardufc.2d80bfc6c600e6913bf0.jpg",
+    "index.html": "/index.html",
+    "main.f2af5ad1.css.map": "/static/css/main.f2af5ad1.css.map",
+    "main.5f64f01e.js.map": "/static/js/main.5f64f01e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2af5ad1.css",
+    "static/js/main.5f64f01e.js"
+  ]
+}
